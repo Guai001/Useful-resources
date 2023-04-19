@@ -59,3 +59,13 @@
       click the "Commit to main".
 
       <img src="/Users/guai2401/Desktop/Purple/Typore_pictures/image-20230419145415050.png" alt="image-20230419145415050" style="zoom:18%;" />
+
+      <img src="/Users/guai2401/Desktop/Purple/Typore_pictures/image-20230419145728547.png" alt="image-20230419145728547" style="zoom:18%;" />
+
+      The result of my change：
+
+      <img src="/Users/guai2401/Desktop/Purple/Typore_pictures/image-20230419145841779.png" alt="image-20230419145841779" style="zoom:18%;" />
+
+      Click the "Commit to main".
+
+      
