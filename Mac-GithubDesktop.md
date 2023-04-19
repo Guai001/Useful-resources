@@ -1,6 +1,8 @@
-# Github
+# 🌻Mac GithubDesktop
 
-## 1 Github Desktop
+> Use GithubDesktop to upload files to your Github Desktop.
+
+## Github Desktop
 
 1. Download and log in
 
