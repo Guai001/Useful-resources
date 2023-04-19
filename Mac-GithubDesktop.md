@@ -66,8 +66,8 @@
 
       <img src="/Users/guai2401/Desktop/Purple/Typore_pictures/image-20230419145841779.png" alt="image-20230419145841779" style="zoom:18%;" />
 
-      Click the "Commit to main".
+      > Click the "Commit to main", Submit your changes.
 
-      
+      <img src="/Users/guai2401/Desktop/Purple/Typore_pictures/image-20230419150051937.png" alt="image-20230419150051937" style="zoom:18%;" />
 
-      Then, click the 
+      >  Then, click the "Push origin", Update your modified file to Github.
